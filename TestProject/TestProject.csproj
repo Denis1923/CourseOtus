@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConsoleApp\ConsoleApp.csproj" />
+    <ProjectReference Include="..\PlaceGame\PlaceGame.csproj" />
   </ItemGroup>
 
   <ItemGroup>
